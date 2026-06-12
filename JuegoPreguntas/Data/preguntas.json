@@ -1,0 +1,164 @@
+[
+    {
+      "Categoria": "Naturaleza",
+      "Enunciado": "¿Qué árbol es conocido por vivir miles de años?",
+      "Respuesta1": "Secuoya",
+      "Respuesta2": "Pino",
+      "Respuesta3": "Abeto",
+      "Respuesta4": "Cerezo",
+      "RespuestaCorrecta": "Secuoya"
+    },
+    {
+      "Categoria": "Clima",
+      "Enunciado": "¿Qué instrumento mide la presión atmosférica?",
+      "Respuesta1": "Termómetro",
+      "Respuesta2": "Barómetro",
+      "Respuesta3": "Anemómetro",
+      "Respuesta4": "Higrómetro",
+      "RespuestaCorrecta": "Barómetro"
+    },
+    {
+      "Categoria": "Arte",
+      "Enunciado": "¿Quién pintó 'La noche estrellada'?",
+      "Respuesta1": "Monet",
+      "Respuesta2": "Van Gogh",
+      "Respuesta3": "Matisse",
+      "Respuesta4": "Goya",
+      "RespuestaCorrecta": "Van Gogh"
+    },
+    {
+      "Categoria": "Países",
+      "Enunciado": "¿Cuál es la capital de Canadá?",
+      "Respuesta1": "Toronto",
+      "Respuesta2": "Montreal",
+      "Respuesta3": "Ottawa",
+      "Respuesta4": "Vancouver",
+      "RespuestaCorrecta": "Ottawa"
+    },
+    {
+      "Categoria": "Historia",
+      "Enunciado": "¿Quién fue el primer presidente de Estados Unidos?",
+      "Respuesta1": "Abraham Lincoln",
+      "Respuesta2": "George Washington",
+      "Respuesta3": "Thomas Jefferson",
+      "Respuesta4": "John Adams",
+      "RespuestaCorrecta": "George Washington"
+    },
+    {
+      "Categoria": "Historia",
+      "Enunciado": "¿En qué año cayó el Muro de Berlín?",
+      "Respuesta1": "1987",
+      "Respuesta2": "1989",
+      "Respuesta3": "1991",
+      "Respuesta4": "1993",
+      "RespuestaCorrecta": "1989"
+    },
+    {
+      "Categoria": "Historia",
+      "Enunciado": "¿Quién lideró la conquista del Imperio Azteca?",
+      "Respuesta1": "Francisco Pizarro",
+      "Respuesta2": "Cristóbal Colón",
+      "Respuesta3": "Hernán Cortés",
+      "Respuesta4": "Pedro de Alvarado",
+      "RespuestaCorrecta": "Hernán Cortés"
+    },
+    {
+      "Categoria": "Historia",
+      "Enunciado": "¿Qué civilización construyó las pirámides de Egipto?",
+      "Respuesta1": "Romana",
+      "Respuesta2": "Griega",
+      "Respuesta3": "Egipcia",
+      "Respuesta4": "Mesopotámica",
+      "RespuestaCorrecta": "Egipcia"
+    },
+    {
+      "Categoria": "Historia",
+      "Enunciado": "¿Cuál fue la causa principal de la Primera Guerra Mundial?",
+      "Respuesta1": "Revolución Industrial",
+      "Respuesta2": "Asesinato del Archiduque Francisco Fernando",
+      "Respuesta3": "Caída de la bolsa",
+      "Respuesta4": "Invención del avión",
+      "RespuestaCorrecta": "Asesinato del Archiduque Francisco Fernando"
+    },
+    {
+      "Categoria": "Historia",
+      "Enunciado": "¿Qué país lanzó la primera bomba atómica?",
+      "Respuesta1": "Alemania",
+      "Respuesta2": "Rusia",
+      "Respuesta3": "EE.UU.",
+      "Respuesta4": "Japón",
+      "RespuestaCorrecta": "EE.UU."
+    },
+    {
+      "Categoria": "Historia",
+      "Enunciado": "¿Quién descubrió América?",
+      "Respuesta1": "Marco Polo",
+      "Respuesta2": "Américo Vespucio",
+      "Respuesta3": "Cristóbal Colón",
+      "Respuesta4": "Magallanes",
+      "RespuestaCorrecta": "Cristóbal Colón"
+    },
+    {
+      "Categoria": "Ciencia",
+      "Enunciado": "¿Cuál es el elemento químico del oro?",
+      "Respuesta1": "Au",
+      "Respuesta2": "Ag",
+      "Respuesta3": "Fe",
+      "Respuesta4": "Cu",
+      "RespuestaCorrecta": "Au"
+    },
+    {
+      "Categoria": "Ciencia",
+      "Enunciado": "¿Qué órgano humano bombea la sangre?",
+      "Respuesta1": "Pulmón",
+      "Respuesta2": "Cerebro",
+      "Respuesta3": "Hígado",
+      "Respuesta4": "Corazón",
+      "RespuestaCorrecta": "Corazón"
+    },
+    {
+      "Categoria": "Ciencia",
+      "Enunciado": "¿Qué planeta es conocido como el planeta rojo?",
+      "Respuesta1": "Marte",
+      "Respuesta2": "Júpiter",
+      "Respuesta3": "Venus",
+      "Respuesta4": "Mercurio",
+      "RespuestaCorrecta": "Marte"
+    },
+    {
+      "Categoria": "Ciencia",
+      "Enunciado": "¿Cuántos planetas tiene el sistema solar?",
+      "Respuesta1": "7",
+      "Respuesta2": "8",
+      "Respuesta3": "9",
+      "Respuesta4": "10",
+      "RespuestaCorrecta": "8"
+    },
+    {
+      "Categoria": "Ciencia",
+      "Enunciado": "¿Qué gas respiramos principalmente?",
+      "Respuesta1": "Oxígeno",
+      "Respuesta2": "Nitrógeno",
+      "Respuesta3": "Dióxido de carbono",
+      "Respuesta4": "Hidrógeno",
+      "RespuestaCorrecta": "Nitrógeno"
+    },
+    {
+      "Categoria": "Ciencia",
+      "Enunciado": "¿Cuál es el hueso más largo del cuerpo humano?",
+      "Respuesta1": "Fémur",
+      "Respuesta2": "Húmero",
+      "Respuesta3": "Radio",
+      "Respuesta4": "Tibia",
+      "RespuestaCorrecta": "Fémur"
+    },
+    {
+      "Categoria": "Ciencia",
+      "Enunciado": "¿Qué científico desarrolló la teoría de la relatividad?",
+      "Respuesta1": "Isaac Newton",
+      "Respuesta2": "Albert Einstein",
+      "Respuesta3": "Galileo Galilei",
+      "Respuesta4": "Stephen Hawking",
+      "RespuestaCorrecta": "Albert Einstein"
+    }
+  ]
